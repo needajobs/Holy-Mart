@@ -1,0 +1,15 @@
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.vbproj.AssemblyReference.cache
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.Home.resources
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.Resources.resources
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.vbproj.GenerateResource.cache
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.vbproj.CoreCompileInputs.cache
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\bin\Debug\Pre_UAS_KASIR.exe.config
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\bin\Debug\Pre_UAS_KASIR.exe
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\bin\Debug\Pre_UAS_KASIR.pdb
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\bin\Debug\Pre_UAS_KASIR.xml
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.exe
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.xml
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.pdb
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.DataMaster.resources
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.Pesan.resources
+C:\Users\vervi\Desktop\Kuliah\Semester 3\Analytics, Design of Informastion System\VS\Pre_UAS_KASIR\obj\Debug\Pre_UAS_KASIR.Struk.resources
